@@ -1,0 +1,1 @@
+Run yarn start:dev to run server on local machine
